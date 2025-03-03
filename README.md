@@ -12,7 +12,7 @@ This project was undertaken to demonstrate my analytical skills using SQL to exp
 - Windows 10
 - MySQL Workbench
 
-## Data Science Analysis Walk-Through
+## Data Analysis Walk-Through
 
 ### Database and Tables Creation
 ##### Database: bank_churn
