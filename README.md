@@ -53,3 +53,14 @@ The following SQL queries were developed to undertand and give insight into the 
 
 #### What is the tenure distribution of customers who churned, and how does it differ from those who stayed?
 ![Tenure Distribution](pic_05.JPG)
+
+### Findings
+- Customer Demographics: The dataset includes customers from a wide age range from 18 – 92 years with the majority being male. The records comprised 5457 males and 4543 females.
+- High-Value Customers Loss: A little over 20% of customers churned. The average account balance of customers that had churned was 91,108.54 while that of those retained was 72, 745. The maximum balance of churned customers was 250,898 while that of retained customers was 221,532.8.
+- Customer Insights: 
+A correlation between the number of products a customer has and the likelihood of churning. The more products a customer had, the lower the likelihood of churning. Of the 2037 customers that churned, with increasing number of products, few customers churned. 
+Further analysis and data visualization is to be carried out for better insight into tenure distribution of customers that churned and those that stayed 
+
+
+### Conclusion
+The analysis serves as a first-level dive into the bank customer churn data using SQL. Focus was on demonstrating use of MySQL Workbench, performing exploratory data analysis, and writing business-driven SQL queries. The findings from this project which is that the bank could improve customer retention by promoting the adoption of more products by existing customers in order to stem high-deposit outflows. They could provide more services and offering curated for higher net-worth individuals in order to stem such high-deposit outflows. The findings can help drive business decisions but further research is still required to give better in-depth analysis.
